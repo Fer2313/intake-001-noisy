@@ -34,8 +34,8 @@
 6. Listo! ya puedes ejecutar el proyecto: npm run dev.
 
 ### 🤝 &nbsp;Equipo:
-Tengo que agradecer al equipo de @igrowker por contribuir conmigo al desarrollo de este proyecto, gracias individuales a
-@damianfanaro, @patrigarcia, @Gaston-Valentini, @opel777 (Gustavo Villegas), @delfiduar, @kevinvigil, @josecalerom, @JormanMR, @Neil-Valente
+Tengo que agradecer al equipo de [@igrowker](https://github.com/igrowker) por contribuir conmigo al desarrollo de este proyecto, gracias individuales a
+[@damianfanaro](https://github.com/damianfanaro), [@patrigarcia](https://github.com/patrigarcia), [@Gaston-Valentini](https://github.com/Gaston-Valentini), [@opel777 (Gustavo Villegas)](https://github.com/opel777), [@delfiduar](https://github.com/delfiduar), [@kevinvigil](https://github.com/kevinvigil), [@josecalerom](https://github.com/josecalerom), [@JormanMR](https://github.com/JormanMR), [@Neil-Valente](https://github.com/Neil-Valente).
 
 ### 🤝🏻 &nbsp;Conoceme en:
 
