@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<div align="center">
+  <img alt="Noisy Banner" width="250px" src="https://res.cloudinary.com/dd1gykekz/image/upload/v1715783036/t0xwiln7z8bxinrsweyv.png"/>
+  
+  # Noisy app by Igrowker
+</div>
 
-First, run the development server:
+### Noisy app es:
+<p>Un proyecto dedicado a aquellas personas que asisten a algun evento musical que neseciten ya se un lugar para alojarse cuando estan lejos de casa o para aquirir sus entradas, ademas de conectar a personas que neseciten asistir al evento con algun grupo que comparta los mismos gustos. 
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Mis tareas:
+1. El desarrollo de un login para que el usuario se pueda autenticar.
+<div aling="center">
+<img width="200px" src="https://res.cloudinary.com/dd1gykekz/image/upload/v1715800901/noisy/ropq7h0165cjmhxafkkf.png">
+<img width="200px" src="https://res.cloudinary.com/dd1gykekz/image/upload/v1715800901/noisy/wrdq18bq0mtlk2z5spis.png">
+</div>
+2. El desarrollo de la seccion edit-profile para que el usuario configure su cuenta.
+<div aling="center">
+<img width="300px" src="https://res.cloudinary.com/dd1gykekz/image/upload/v1715800901/noisy/ogrddxfozxmlqhddl6vq.png">
+<img width="300px" src="https://res.cloudinary.com/dd1gykekz/image/upload/v1715800901/noisy/la9xtzklr012gnqcgw1b.png">
+</div>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🛠 &nbsp;Tecnonogias del proyecto:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,prisma,mongodb&perline=5)](https://skillicons.dev)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+### 🤝🏻 &nbsp;Conoceme en:
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+  [![My Skills](https://skillicons.dev/icons?i=instagram&perline=1)](https://www.instagram.com/ferfantini.ff/)
+  [![My Skills](https://skillicons.dev/icons?i=github&perline=1)](https://github.com/Fer2313/)
+  [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/fernando-fantini-829163288/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
