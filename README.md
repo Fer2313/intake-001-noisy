@@ -11,15 +11,28 @@
 
 ### ✏️ &nbsp;Mis tareas:
 1. El desarrollo de un login para que el usuario se pueda autenticar.
+- Pude implementar un diseño de movil adaptativo para pc.
+- Realize el formulario con algunas funciones de chackra, usando javascript vanilla para la logica del validado de errores, y algunos estados de next.
+- Instale la dependencia de hcaptcha para el validado “no soy un robot”.
 <div aling="center">
 <img width="200px" src="https://res.cloudinary.com/dd1gykekz/image/upload/v1715800901/noisy/ropq7h0165cjmhxafkkf.png">
 <img width="200px" src="https://res.cloudinary.com/dd1gykekz/image/upload/v1715800901/noisy/wrdq18bq0mtlk2z5spis.png">
 </div>
+
 2. El desarrollo de la seccion edit-profile para que el usuario configure su cuenta.
+- Pude implementar un diseño de movil adaptativo para pc.
+- Realize un formulario para que el usuario comun pueda editar su perfil y enviar los datos.
+- Realize un selector de imagenes usando solamente el useState de react al igual que en los campos de tus festivales y artistas favoritos.
+- Realize un selector de generos de musica favoritos para que el usuario pueda elegir tres ademas de poder sacar uno y/o cambiarlo si lo desea.
 <div aling="center">
 <img width="300px" src="https://res.cloudinary.com/dd1gykekz/image/upload/v1715800901/noisy/ogrddxfozxmlqhddl6vq.png">
 <img width="300px" src="https://res.cloudinary.com/dd1gykekz/image/upload/v1715800901/noisy/la9xtzklr012gnqcgw1b.png">
 </div>
+
+3. El desarrollo en conjunto con [@josecalerom](https://github.com/josecalerom) de una seccion de graficos para que el organizador tenga mas informacion sobre su evento.
+- Pude implementar un diseño de movil adaptativo para pc.
+- Utilize Chart.js para crear el primer grafico pizza.
+<img width="300px" src="https://i.ibb.co/hD1Zz7G/Captura-de-pantalla-2024-05-17-090849.png" alt="Captura-de-pantalla-2024-05-17-090849" border="0" />
 
 ### 🛠 &nbsp;Tecnonogias del proyecto:
 
